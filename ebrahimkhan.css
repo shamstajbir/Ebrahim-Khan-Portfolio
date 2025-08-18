@@ -2181,8 +2181,13 @@ textarea.w-select {
   --gap: 1rem;
   --color-secondary: var(--color-lightgreen);
   --title-size: 5rem;
-  --color-green: #899388;
-  --color-primary: #2b23e8;
+  --color-green: #9c9b9b;
+   --color-ibraniq: #f5bd03;
+   --color-geekssort: #09dfb0;
+   --color-tripnao: #03d0f9;
+     --color-elevate: #f90303;
+
+  --color-primary: #0a33e9;
   --vh-in-px: 8px;
   --vh: var(--vh-in-px);
   --color-black: black;
@@ -2198,7 +2203,7 @@ textarea.w-select {
   --border-radius: 0px;
   --row-gap: var(--gap);
   --col-gap: var(--gap);
-  --color-lightgreen: #abb7aa;
+  --color-lightgreen: #e9eae9;
   --color-darkgray: #1b1b1b;
 }
 
