@@ -2182,7 +2182,7 @@ textarea.w-select {
   --color-secondary: var(--color-lightgreen);
   --title-size: 5rem;
   --color-green: #9c9b9b;
-   --color-ibraniq: #f5bd03;
+   --color-ibraniq: #c99211;
    --color-geekssort: #09dfb0;
    --color-tripnao: #03d0f9;
      --color-elevate: #f90303;
@@ -3080,12 +3080,12 @@ p {
   display: flex;
 }
 
-.header-h2-span-nick {
+.header-h2-span-ebrahim {
   margin-left: -0.035em;
   display: flex;
 }
 
-.header-h2-span-velten {
+.header-h2-span-khan {
   white-space: nowrap;
   justify-content: flex-end;
   margin-right: -0.035em;
@@ -3435,7 +3435,7 @@ p {
     justify-content: space-between;
   }
 
-  .header-h2-span-velten {
+  .header-h2-span-khan {
     justify-content: flex-start;
   }
 
@@ -3563,7 +3563,7 @@ p {
     font-size: calc(var(--title-size) * 1.165);
   }
 
-  .header-h2-span-velten {
+  .header-h2-span-khan {
     justify-content: flex-end;
   }
 
